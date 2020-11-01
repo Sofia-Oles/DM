@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1576342565 source:d:\code\елцикли\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	<algorithm>
+	<list>
+

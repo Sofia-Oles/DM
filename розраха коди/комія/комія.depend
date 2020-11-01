@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576346731 source:d:\code\комія\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+
